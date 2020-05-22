@@ -1,4 +1,4 @@
-name: cloud_tutorial
+name: paper_envs
 channels:
   - conda-forge
   - defaults
