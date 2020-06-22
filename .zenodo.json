@@ -1,5 +1,10 @@
 {
   "title": "FluxSat: Measuring the Ocean–Atmosphere Turbulent Exchange of Heat and Moisture from Space",
+  "license": "apache 2.0", 
+  "title": "cgentemann/2020_FluxSat_MDPI_RemoteSensing: reorg-release", 
+  "version": "v1.1", 
+  "upload_type": "software", 
+  "publication_date": "2020-06-22", 
   "creators": [
     {
       "name": "Gentemann, Chelle",
@@ -56,5 +61,18 @@
       "affiliation": "Jet Propulsion Laboratory, California Institute of Technology",
       "orcid": "0000-0002-1983-7930"
     }
+  ]
+  "access_right": "open", 
+  "related_identifiers": [
+      {
+          "scheme": "url", 
+          "identifier": "https://github.com/cgentemann/2020_FluxSat_MDPI_RemoteSensing/tree/v1.1", 
+          "relation": "isSupplementTo"
+      }, 
+      {
+          "scheme": "doi", 
+          "identifier": "10.5281/zenodo.3840650", 
+          "relation": "isVersionOf"
+      }
   ]
 }
