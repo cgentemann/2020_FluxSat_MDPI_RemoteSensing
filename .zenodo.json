@@ -1,67 +1,66 @@
 {
   "title": "FluxSat: Measuring the Ocean–Atmosphere Turbulent Exchange of Heat and Moisture from Space",
-  "license": "apache 2.0", 
-  "title": "cgentemann/2020_FluxSat_MDPI_RemoteSensing: reorg-release", 
   "version": "v1.1", 
   "upload_type": "software", 
   "publication_date": "2020-06-22", 
+  "date": [{"date": "2020-06-22", "type": "available"}],
   "creators": [
     {
       "name": "Gentemann, Chelle",
       "affiliation": "Farallon Institute",
       "orcid": "0000-0002-2250-3106"
-    }
+    },
     {
       "name": "Clayson, Carol Anne",
       "affiliation": "Woods Hole Oceanographic Institution",
       "orcid": "000-0003-4804-9914"
-    }
+    },
     {
       "name": "Brown, Shannon",
       "affiliation": "Jet Propulsion Laboratory, California Institute of Technology",
       "orcid": " "
-    }
+    },
     {
       "name": "Lee, Tong",
       "affiliation": "Jet Propulsion Laboratory, California Institute of Technology",
       "orcid": "0000-0001-9817-2908"
-    }
+    },
     {
       "name": "Parfitt, Rhys",
       "affiliation": "Florida State University",
       "orcid": "0000-0002-2133-8057"
-    }
+    },
     {
       "name": "Farrar, J. Thomas",
       "affiliation": "Woods Hole Oceanographic Institution",
       "orcid": "0000-0003-3495-1990"
-    }
+    },
     {
       "name": "Bourassa, Mark",
       "affiliation": "Florida State University",
       "orcid": "0000-0003-3345-9531"
-    }
+    },
     {
       "name": "Minnett, Peter",
       "affiliation": "University of Miami",
       "orcid": "0000-0002-7961-6590"
-    }
+    },
     {
       "name": "Seo, Hyodae",
       "affiliation": "Woods Hole Oceanographic Institution",
       "orcid": "0000-0002-4352-5080"
-    }
+    },
     {
       "name": "Gille, Sarah",
       "affiliation": "Scripps Institution of Oceanography, University of California San Diego",
       "orcid": "0000-0001-9144-4368"
-    }
+    },
     {
       "name": "Zlotnicki, Victor",
       "affiliation": "Jet Propulsion Laboratory, California Institute of Technology",
       "orcid": "0000-0002-1983-7930"
     }
-  ]
+  ],
   "access_right": "open", 
   "related_identifiers": [
       {
